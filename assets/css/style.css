@@ -1,0 +1,6 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: blue;       /* خلفية السهم */
+  border-radius: 50%;           /* شكل دائري اختياري */
+  background-size: 100% 100%;   /* عشان يعبّي المساحة */
+}
